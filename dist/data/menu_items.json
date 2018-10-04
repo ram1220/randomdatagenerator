@@ -1,0 +1,38 @@
+[
+    {
+        "rating": 3,
+        "id": "1",
+        "name": "PANDA EXPRESS",
+        "address": "18250 N 25th Ave",
+        "menu": [
+            {
+                "mid": "11",
+                "item": "NOODELS",
+                "price": "8.99",
+                "count": 0
+            },
+            {
+                "mid": "12",
+                "item": "NOODELS _123",
+                "price": "9.99",
+                "count": 0
+            }
+        ],
+        "restaurant_type": "Indian"
+    },
+    {
+        "rating": 4,
+        "id": "2",
+        "name": "JIMMY JOHNS",
+        "address": "3010 W Yorkshire Dr",
+        "menu": [
+            {
+                "mid": "12",
+                "item": "CHICKEN SANDWITCH",
+                "price": "7.99",
+                "count": 0
+            }
+        ],
+        "restaurant_type": "American"
+    }
+]
